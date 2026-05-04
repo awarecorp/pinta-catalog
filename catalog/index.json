@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "generated": "2026-05-01T00:00:00Z",
+  "adaptors": [
+    {
+      "id": "mcp-logger",
+      "latest": "0.1.1-dev.1",
+      "manifests": [
+        {
+          "version": "0.1.1-dev.1",
+          "url": "mcp-logger/0.1.1-dev.1.yaml",
+          "sha256": "41bc7a1b278128052d1ca1a1daf3db940e705890a005e4eea8f1ec4cdb6d7526"
+        }
+      ]
+    },
+    {
+      "id": "pinta-cc",
+      "latest": "1.2.0",
+      "manifests": [
+        {
+          "version": "1.2.0",
+          "url": "pinta-cc/1.2.0.yaml",
+          "sha256": "6d348cdc9ee8b1c46c7b4d504c18db61f5bdb250d8a2770c90d265d257f5caa4"
+        }
+      ]
+    },
+    {
+      "id": "pinta-codex",
+      "latest": "1.2.1",
+      "manifests": [
+        {
+          "version": "1.2.1",
+          "url": "pinta-codex/1.2.1.yaml",
+          "sha256": "8d5625b642d766e4c38fff457416b6ebd1a89e6500b965ab89f028c884b1a1f0"
+        }
+      ]
+    }
+  ]
+}
