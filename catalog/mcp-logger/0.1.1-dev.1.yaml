@@ -18,6 +18,7 @@ targets:
       detect:
         macos: ~/Library/Application Support/Claude/claude_desktop_config.json
         linux: ~/.config/Claude/claude_desktop_config.json
+        windows: ~/AppData/Roaming/Claude/claude_desktop_config.json
       wrap:
         extra_args: []
         env_keys:
@@ -29,6 +30,7 @@ targets:
       detect:
         macos: ~/.cursor/mcp.json
         linux: ~/.cursor/mcp.json
+        windows: ~/.cursor/mcp.json
       wrap:
         extra_args: []
         env_keys:
@@ -40,6 +42,7 @@ targets:
       detect:
         macos: ~/.claude.json
         linux: ~/.claude.json
+        windows: ~/.claude.json
       wrap:
         extra_args: []
         env_keys:
