@@ -1,11 +1,16 @@
 {
   "schema_version": 1,
-  "generated": "2026-05-05T00:00:00Z",
+  "generated": "2026-05-06T03:20:00Z",
   "adaptors": [
     {
       "id": "mcp-logger",
-      "latest": "0.1.1",
+      "latest": "0.1.2",
       "manifests": [
+        {
+          "version": "0.1.2",
+          "url": "mcp-logger/0.1.2.yaml",
+          "sha256": "cc6fdd7ffe1791775a9d84bcc907e2a2978930d7afb49efe28542968fc761739"
+        },
         {
           "version": "0.1.1",
           "url": "mcp-logger/0.1.1.yaml",
@@ -20,8 +25,13 @@
     },
     {
       "id": "pinta-cc",
-      "latest": "1.2.1",
+      "latest": "1.2.2",
       "manifests": [
+        {
+          "version": "1.2.2",
+          "url": "pinta-cc/1.2.2.yaml",
+          "sha256": "907b7180278113216ea8b9f5f4dc173809573475cf592da1c9b0c56403602cde"
+        },
         {
           "version": "1.2.1",
           "url": "pinta-cc/1.2.1.yaml",
@@ -36,8 +46,13 @@
     },
     {
       "id": "pinta-codex",
-      "latest": "1.2.2",
+      "latest": "1.2.3",
       "manifests": [
+        {
+          "version": "1.2.3",
+          "url": "pinta-codex/1.2.3.yaml",
+          "sha256": "ce4cd98d1b4cc2e8b92f05b35b23b9ea37e4ae32136389291093597b7c742e1d"
+        },
         {
           "version": "1.2.2",
           "url": "pinta-codex/1.2.2.yaml",
