@@ -46,8 +46,13 @@
     },
     {
       "id": "pinta-codex",
-      "latest": "1.2.3",
+      "latest": "1.2.4",
       "manifests": [
+        {
+          "version": "1.2.4",
+          "url": "pinta-codex/1.2.4.yaml",
+          "sha256": "107150e051fa3ae2a8a14fc18f730f8443ff4814615c54ab2539bd90fc2e10de"
+        },
         {
           "version": "1.2.3",
           "url": "pinta-codex/1.2.3.yaml",
